@@ -1,5 +1,5 @@
 if 1 ~= vim.fn.has "nvim-0.9.0" then
-  vim.api.nvim_err_writeln "ue.nvim requires nvim version 0.9.0"
+  vim.api.nvim_err_writeln "unreal_engine.nvim requires nvim version 0.9.0"
   return
 end
 
